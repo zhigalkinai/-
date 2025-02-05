@@ -1,0 +1,24 @@
+body {
+    font-family: sans-serif;
+}
+header img{
+    width: 234px;
+    height: 48px;
+}
+header a{
+    margin-left: 49px;
+    text-decoration: none;
+    color: black;
+}
+main h1{
+    text-align: center;
+}
+main img{
+    margin-left: 245px;
+}
+ p{
+    text-align: center;
+}
+footer {
+   margin-top: 70px;
+}
